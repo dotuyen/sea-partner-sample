@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-zuul/demo.iml" filepath="$PROJECT_DIR$/demo-zuul/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-service/demo (1) (com.example.core).iml" filepath="$PROJECT_DIR$/core-service/demo (1) (com.example.core).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sea-partner-sample.iml" filepath="$PROJECT_DIR$/.idea/sea-partner-sample.iml" />
+    </modules>
+  </component>
+</project>
